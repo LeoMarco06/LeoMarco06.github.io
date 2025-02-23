@@ -1,0 +1,19 @@
+:root{
+    /* Palette: https://coolors.co/palette/000814-001d3d-003566-ffc300-ffd60a */
+    --first-clr: #FFC300;
+    --hover-first-clr: #FFD60A;
+
+    --second-clr: #001D3D;
+    --hover-second-clr: #003566;
+
+    --third-clr: #000814;
+}
+
+@font-face {
+    font-family: Rubik;
+    src: url(Rubik-VariableFont_wght.ttf);
+}
+
+html{
+    font-family: Rubik, sans-serif !important;
+}
